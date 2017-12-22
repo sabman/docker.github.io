@@ -13,7 +13,7 @@ on each container even if the container is redeployed and ends up on a different
 host. Every container can reach any other container on any port within the
 subnet.
 
-Docker Cloud gives your containers two ways find other services:
+Docker Cloud gives your containers two ways to find other services:
 
 * Using service and container names directly as **hostnames**
 
